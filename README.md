@@ -65,9 +65,10 @@ Hello! I'm Vedant Mehta, a **graduate student in Software Engineering at San Jos
 
 ---
 
-## 📬 Let’s Connect!  
+## 📬 Let’s Connect!
 
-- **[LinkedIn](https://www.linkedin.com/in/vedantmehta14/)**  
-- **Email:** mehtavedant8@gmail.com  
+- **[LinkedIn](https://www.linkedin.com/in/vedantmehta14/)**
+- **Email:** mehtavedant8@gmail.com
+- 📄 **Resume:** [Click here to view](./Resume.pdf)
 
 ---

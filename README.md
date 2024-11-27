@@ -69,10 +69,8 @@ Here’s a glimpse of the tools and technologies I work with:
 
 ## 🌟 Let's Connect!  
 
-- 🌐 [Portfolio Website](#)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-mehta)  
-- 🐦 [Twitter](https://twitter.com/vedantmehta)  
-- 📧 Email: vedantmehta@domain.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vedantmehta14/)  
+- 📧 Email: mehtavedant8@gmail.com  
 
 ---
 

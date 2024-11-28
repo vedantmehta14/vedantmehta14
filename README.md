@@ -3,24 +3,6 @@
 ## 🌟 About Me
 I'm a graduate student in Software Engineering at San Jose State University, passionate about solving real-world problems with efficient and innovative software solutions. With hands-on experience in full-stack development, cloud systems, and machine learning, I enjoy exploring the intersections of technology to create impactful projects.
 
-## 💼 Internship Experience
-### Techsture Technologies | Software Engineer Intern
-- Designed a custom ERP system using Django, improving organizational operational efficiency by 30%
-- Implemented role-based access control and multi-factor authentication for enhanced security
-
-### Northern Trust | Summer Intern
-- Developed chatbot workflows with Natural Language Understanding for automatic execution
-- Created JavaScript-based monitoring system for tracking critical service availability
-
-## 🚀 Key Projects
-### Cloud IDE
-- Built a secure collaborative cloud IDE with real-time multi-user code editing
-- Deployed microservices on Google Cloud Run with Kubernetes-based container orchestration
-
-### Docu-LM
-- Engineered a document retrieval system using RAG architecture with page-level indexing
-- Developed a React interface with an intelligent GPT-4 powered chatbot for document analysis
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Tech Stack
 
 ### Languages
@@ -60,6 +42,24 @@ I'm a graduate student in Software Engineering at San Jose State University, pas
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+## 💼 Internship Experience
+### Techsture Technologies | Software Engineer Intern
+- Designed a custom ERP system using Django, improving organizational operational efficiency by 30%
+- Implemented role-based access control and multi-factor authentication for enhanced security
+
+### Northern Trust | Summer Intern
+- Developed chatbot workflows with Natural Language Understanding for automatic execution
+- Created JavaScript-based monitoring system for tracking critical service availability
+
+## 🚀 Key Projects
+### Cloud IDE
+- Built a secure collaborative cloud IDE with real-time multi-user code editing
+- Deployed microservices on Google Cloud Run with Kubernetes-based container orchestration
+
+### Docu-LM
+- Engineered a document retrieval system using RAG architecture with page-level indexing
+- Developed a React interface with an intelligent GPT-4 powered chatbot for document analysis
 
 ## 🚀 What I'm Currently Doing
 I'm actively working on advanced software engineering projects, focusing on developing innovative solutions that leverage cutting-edge technologies. I'm particularly interested in exploring the potential of AI, cloud computing, and machine learning to solve complex real-world problems.

@@ -39,7 +39,7 @@ Hello! I'm Vedant Mehta, a **graduate student in Software Engineering at San Jos
 **Tech Stack:** Django, JavaScript, AJAX  
 - Designed and deployed an ERP system streamlining HR functionalities, improving operational efficiency by 30%.  
 
-### **Hack-NU-thon Virtual Cardiologist** ❤️  
+### **Hack-NU-thon Virtual Cardiologist** 🫀  
 **Tech Stack:** Python, Streamlit, ML (Random Forest, SVM, KNN)  
 - Created a web app predicting heart disease with a **99.02% accuracy** using ML models.  
 - Ranked Top 5 among 70+ teams for innovative implementation.  

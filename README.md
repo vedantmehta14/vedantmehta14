@@ -1,10 +1,10 @@
-# `<h1 align="center">` `<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />` Hi there, you've arrived at @vedantmehta14 `<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />` `</h1>`
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi there, you've arrived at @vedantmehta14 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 ## 🌟 About Me
 
 I'm a graduate student in Software Engineering at San Jose State University, passionate about solving real-world problems with efficient and innovative software solutions. With hands-on experience in full-stack development, cloud systems, and machine learning, I enjoy exploring the intersections of technology to create impactful projects.
 
-## `<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/>` Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Tech Stack
 
 ### Languages
 
